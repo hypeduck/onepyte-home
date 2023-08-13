@@ -1,6 +1,6 @@
 # SNU Bigdata Fintech Course 7th
 
-![Seoul National University BigData Fintech Course 7th logo](/assets/snu_course/snu_snu-bigdata-fintech_7th.png)
+![Seoul National University BigData Fintech Course 7th logo](/assets/snu_course/snu_snu-bigdata-fintech_7th_fit.png)
 
 <!-- ![Team 1 : Onepyte logo](../assets/onepyte/onepyte_logo_horizontal.png) -->
 
@@ -32,7 +32,7 @@ Training Period : 2023.06.26. - 2023.12.28.
 ## Onepyte - Team 1
 
 <div align="center">
-  <img src="../assets/onepyte/onepyte_logo_horizontal.png" width="40%">
+  <img src="/assets/onepyte/onepyte_logo_horizontal_fit.png" width="40%">
 </div>
 
 ### Projects
